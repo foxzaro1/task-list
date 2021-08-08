@@ -1,2 +1,3 @@
 # task-list
-![alt text](https://github.com/foxzaro1/task-list/blob/master/example.jpg?raw=true)
+todo project with vue.js
+![alt text](https://github.com/foxzaro1/task-list/blob/master/example.png?raw=true)
